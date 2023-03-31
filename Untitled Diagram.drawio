@@ -1,9 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2023-03-30T16:08:38.667Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" version="21.1.2" etag="lfS-Wt5mCgv3IDnDGOgy" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-31T03:00:23.889Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="RAGtPz4OjwDn8oMj4pgB" version="21.1.2" type="github">
   <diagram name="Page-1" id="4UoVQZ49uw_72WKXUact">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="1856" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="zo400boLXuMq4kroyvp6-1" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="140" y="-925" width="570" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="zo400boLXuMq4kroyvp6-2" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="208.75" y="-913.75" width="435" height="267.5" as="geometry" />
+        </mxCell>
+        <mxCell id="zo400boLXuMq4kroyvp6-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="384.38" y="-1040" width="83.75" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="zo400boLXuMq4kroyvp6-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="406.25" y="-550" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zo400boLXuMq4kroyvp6-12" value="Jiorno&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="318.75" y="-890" width="86.25" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="zo400boLXuMq4kroyvp6-15" value="cono Jiorno Javana&amp;nbsp;&lt;br&gt;umeguaru" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="340" y="-960" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zo400boLXuMq4kroyvp6-16" value="Koichi" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="465" y="-890" width="58.75" height="130" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
